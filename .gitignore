@@ -1,5 +1,6 @@
 user-password.py
 
+*.tsv
 throttle.ctrl
 pywikibot.lwp
 user-*.py
